@@ -1,0 +1,4 @@
+[submodule "Baki'sBlog/public"]
+	path = Baki'sBlog/public
+	url = https://github.com/Bakibo/bakiblog.git
+	branch = main
